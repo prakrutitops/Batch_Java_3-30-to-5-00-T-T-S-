@@ -1,0 +1,31 @@
+constructor:Method Having a same as a classname
+
+=>constructor does not have a return type
+=>Method Must have a return type
+
+Types of constructor
+1)Default => No Arguments(Parameters)
+2)Parameterized =>Arguments(Parameters)
+
+Encapsulation:Wrapping up of data or binding of data
+
+
+*
+**
+***
+****
+*****
+
+1
+22
+333
+4444
+55555
+
+
+1
+12
+123
+1234
+12345
+
