@@ -1,0 +1,34 @@
+1.
+Create a class with a method that prints "This is a parent class" and its
+subclass with another method that prints "This is child class". Now, create
+an object for each of the class and call 1 - method of parent class by object
+of parent class 2 - method of child class by object of child class 3 - method
+of parent class by object of child class
+
+2.
+Create a class named 'Member' having the following members:
+Data members
+Name
+Age
+Phone number
+Address 5 - Salary
+It also has a method named 'printSalary' which prints the salary of the
+members.
+Two classes 'Employee' and 'Manager' inherits the 'Member' class. The
+'Employee' and 'Manager' classes have data members 'specialization' and
+'department' respectively. Now, assign name, age, phone number,
+address and salary to an employee and a manager by making an object of
+both of these classes and print the same.
+
+3.
+ Write a program to print the area and perimeter of a triangle having
+sides of 3, 4 and 5 units by creating a class named 'Triangle' without any
+parameter in its constructor
+
+4.
+Member->Parent
+[Name,Number,Amount]
+
+child:
+Staff=>[Discount]=500-50=450
+Other=>Amount Print=500
