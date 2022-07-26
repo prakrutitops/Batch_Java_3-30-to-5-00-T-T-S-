@@ -1,0 +1,30 @@
+W.A.J.P to get the character at the given index within the String. Original
+String = Tops Technologies! The character at position 0 is T, The character
+at position 10 is o
+
+ W.A.J.P to concatenate a given string to the end of another string.
+
+ W.A.J.P to compare a given string to the specified character sequence.
+
+Comparing topsint.com and topsint.com: true Comparing Topsint.com
+and topsint.com: false
+
+ W.A.J.P to check whether a given string ends with the contents of another
+string. "Java Exercises" ends with "se"? False "Java Exercise" ends with
+"se"? True
+
+ W.A.J.P to check whether a given string starts with the contents of
+another string. Red is favourite color. Starts with Red? True Orange is also
+my favorite color. Starts with Red? False 
+
+
+ W.A.J.P to find all interleaving of given strings.
+The given strings are: WX YZ
+The interleaving strings are: YWZX WYZX YWXZ WXYZ YZWX WYXZ
+
+ W.A.J.P to find the second most frequent character in a given string. The
+given string is: successes The second most frequent char in the string is: c
+
+ Create a class named 'PrintNumber' to print various numbers of different
+data types by creating different methods with the same name 'printn'
+having a parameter for each data type.
