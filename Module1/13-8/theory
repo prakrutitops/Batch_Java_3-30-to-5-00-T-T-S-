@@ -1,0 +1,52 @@
+interface 
+
+Comparator
+
+1000000>10000
+
+step 1:
+1000000
+10000
+20000
+7000000
+
+
+step 2:
+10000
+1000000	
+20000
+7000000
+
+step 3:
+10000
+20000
+1000000	
+7000000
+
+step 4:	
+10000
+20000
+1000000	
+7000000
+
+
+
+
+package com.collection;
+
+import java.util.LinkedHashSet;
+
+public class LinkedHashSEtDemo {
+	public static void main(String[] args) {
+		LinkedHashSet lhs = new LinkedHashSet<>();
+		lhs.add("TOPS");
+		lhs.add('H');
+		lhs.add(10);
+		// insertion order is not maintain in set
+		//but its LinkedHasSet 
+		//so insertion order is maintain
+		System.out.println(lhs);
+	}
+}
+
+
