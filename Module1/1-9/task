@@ -1,0 +1,24 @@
+Add Students  View Students ->update,Delete
+Add Faculty   View Faculty  ->Update,Delete
+
+
+student:
+
+Name
+Surname
+Degree->dropdown
+Gender->radiobutton
+Semester->select
+Contact Number
+Percentage
+
+Faculty
+
+Name
+Surname
+Qualification->dropdown
+Gender->radiobutton
+Experience
+Contact Number
+Last Salary
+
