@@ -1,0 +1,34 @@
+<script>
+function ValidateCheckBoxList() {
+var listItems =
+document.getElementById("CheckBoxList1").getElementsByTagName("input");
+var itemcount = listItems.length;
+var iCount = 0;
+var isItemSelected = false;
+for (iCount = 0; iCount < itemcount; iCount++)
+{
+if (listItems[iCount].checked)
+{
+isItemSelected = true;
+break;
+}
+}
+if (!isItemSelected) {
+alert("Please select an Item.");
+}
+else {
+return true;
+}
+return false;
+} 
+</script>
+<td>
+<div id="CheckBoxList1">
+<input type="checkbox" name="cb">a
+<input type="checkbox" name="cb">b
+<input type="checkbox" name="cb">c
+<input type="checkbox" name="cb">d
+</div>
+</td>
+</tr>
+<td><input type="submit" name="submit" name="submit" onclick="return ValidateCheckBoxList();"></td>
